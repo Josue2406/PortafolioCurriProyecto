@@ -24,7 +24,7 @@ function App() {
             </div>
             <div className="flex items-center space-x-4">
               <a
-                href="https://github.com"
+                href="https://github.com/Josue2406"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="relative p-2 rounded-full text-gray-600 dark:text-gray-300 hover:text-[#2ecc71] dark:hover:text-[#2ecc71] transition-all duration-300 hover:drop-shadow-[0_0_12px_rgba(46,204,113,0.8)] group hover:-translate-y-1 hover:scale-110"
@@ -36,7 +36,7 @@ function App() {
                 <div className="absolute inset-0 bg-[#2ecc71] rounded-full opacity-0 scale-0 group-hover:opacity-10 group-hover:scale-100 transition-all duration-300"></div>
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/josue-fernandez-7128b5208/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="relative p-2 rounded-full text-gray-600 dark:text-gray-300 hover:text-[#0077b5] dark:hover:text-[#0077b5] transition-all duration-300 hover:drop-shadow-[0_0_12px_rgba(0,119,181,0.8)] group hover:-translate-y-1 hover:scale-110"
