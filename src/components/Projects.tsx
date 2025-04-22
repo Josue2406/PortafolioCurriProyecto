@@ -15,7 +15,7 @@ const Projects = () => {
     },
     {
       title: "CEDIAM",
-      description: "Aplicativo informativo y de donde se envian solicitudes de manera segura",
+      description: "Aplicativo informativo y de donde se envian solicitudes de manera segura.",
       image: CEDIAM,
       technologies: ["React", "Node.js", "MySQL Workbench", "vite", "typescript"],
       github: "https://github.com/Josue2406/pGCed2danier.git",

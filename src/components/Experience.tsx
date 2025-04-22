@@ -11,7 +11,7 @@ const experiences = [
     },
     {
       position: "QA",
-      company: "Coopeguanacaste santa cruz",
+      company: "Coopeguanacaste santa cruz .",
       period: "2023-2024",
       description:
         "Asegurando la calidad del software mediante pruebas automatizadas y revisión de código, creando reportes de defectis del producto.",
