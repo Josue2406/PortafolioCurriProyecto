@@ -67,7 +67,7 @@ function App() {
                 <div className="absolute inset-0 bg-[#0077b5] rounded-full opacity-0 scale-0 group-hover:opacity-10 group-hover:scale-100 transition-all duration-300"></div>
               </a>
               <a
-  href="/CV_JosueFernandez.pdf"
+  href="/CvDanier.pdf"
   download
   className="relative p-2 rounded-full text-gray-600 dark:text-gray-300 hover:text-[#e74c3c] dark:hover:text-[#e74c3c] transition-all duration-300 hover:drop-shadow-[0_0_12px_rgba(231,76,60,0.8)] group hover:-translate-y-1 hover:scale-110"
 >
